@@ -1,0 +1,92 @@
+[
+  {
+    "id": "5bbd3c82-90d8-4209-9caa-204dab7a42da",
+    "title": "Intermediate React",
+    "description": "Deep dive into React",
+    "startDate": "2024-06-25T17:22:12Z",
+    "endDate": "2024-06-25T18:47:28Z",
+    "image": "https://robohash.org/autquised.png?size=50x50&set=set1",
+    "categories": ["Coding"]
+  },
+  {
+    "id": "1421c7db-9545-423f-b2bf-3a05e81e48e1",
+    "title": "Beginner Python",
+    "description": "Hands-on Python basics",
+    "startDate": "2024-03-15T10:00:00Z",
+    "endDate": "2024-03-15T12:00:00Z",
+    "image": "https://robohash.org/veniamexercitationemsimilique.png?size=50x50&set=set1",
+    "categories": ["Coding"]
+  },
+  {
+    "id": "84bf1aa3-e6a7-44e3-89ed-62c28ca2719b",
+    "title": "Art Exhibition",
+    "description": "Contemporary art showcase",
+    "startDate": "2024-02-05T14:30:00Z",
+    "endDate": "2024-02-07T18:00:00Z",
+    "image": "https://robohash.org/autprovidentunde.png?size=50x50&set=set1",
+    "categories": ["Social"]
+  },
+  {
+    "id": "64794ac4-b219-4bbf-89c3-e561fe88871e",
+    "title": "Advanced ML",
+    "description": "Explore advanced ML concepts",
+    "startDate": "2024-10-10T09:00:00Z",
+    "endDate": "2024-10-12T17:00:00Z",
+    "image": "https://robohash.org/expeditatemporibusomnis.png?size=50x50&set=set1",
+    "categories": ["Coding"]
+  },
+  {
+    "id": "e5962aa5-19d1-4303-88b6-e53d10edfdac",
+    "title": "Charity Run",
+    "description": "Support noble causes, join us",
+    "startDate": "2024-11-20T08:00:00Z",
+    "endDate": "2024-11-20T12:00:00Z",
+    "image": "https://robohash.org/quiaestin.png?size=50x50&set=set1",
+    "categories": ["Sports", "Social"]
+  },
+  {
+    "id": "c80ebd44-72f2-460b-9e5f-3f3f1b344615",
+    "title": "Web Dev Workshop",
+    "description": "Latest web dev trends",
+    "startDate": "2024-12-05T16:00:00Z",
+    "endDate": "2024-12-05T18:00:00Z",
+    "image": "https://robohash.org/voluptasvoluptatibusquas.png?size=50x50&set=set1",
+    "categories": ["Coding"]
+  },
+  {
+    "id": "4f1c6c29-831f-4ec5-88e3-5810d65e37c6",
+    "title": "Yoga Retreat",
+    "description": "Rejuvenate with yoga retreat",
+    "startDate": "2025-01-15T08:00:00Z",
+    "endDate": "2025-01-22T18:00:00Z",
+    "image": "https://robohash.org/utvoluptatemillo.png?size=50x50&set=set1",
+    "categories": ["Sports", "Social"]
+  },
+  {
+    "id": "7e2a4230-32c8-47f6-87f5-29b3e8c9dffe",
+    "title": "Data Science Conf",
+    "description": "AI applications and ethics",
+    "startDate": "2025-02-20T09:00:00Z",
+    "endDate": "2025-02-22T17:00:00Z",
+    "image": "https://robohash.org/nisiillumaut.png?size=50x50&set=set1",
+    "categories": ["Coding", "Social"]
+  },
+  {
+    "id": "12e510e1-66a1-4d74-a793-3f9076eb57c7",
+    "title": "Photography Workshop",
+    "description": "Hone photography skills",
+    "startDate": "2025-03-10T13:30:00Z",
+    "endDate": "2025-03-10T16:30:00Z",
+    "image": "https://robohash.org/autabipsa.png?size=50x50&set=set1",
+    "categories": ["Social"]
+  },
+  {
+    "id": "e7b8de85-0f5e-4f93-b535-eebe39cf8836",
+    "title": "AI Ethics Panel",
+    "description": "Responsible AI use, join discussion",
+    "startDate": "2025-04-18T15:00:00Z",
+    "endDate": "2025-04-18T17:00:00Z",
+    "image": "https://robohash.org/exsuntfacilis.png?size=50x50&set=set1",
+    "categories": ["Coding", "Social"]
+  }
+]

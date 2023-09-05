@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  min-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  text-align: left;
+  background: linear-gradient(to left top, #eee, #480c93);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+  text-align: left;
+}

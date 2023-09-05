@@ -1,0 +1,40 @@
+.container {
+  max-height: 500px;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgba(161, 132, 199, 1) 22%,
+    rgba(255, 255, 255, 1) 54%
+  );
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.event {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+  padding: 5px 15px;
+  margin-bottom: 3rem;
+  border-radius: 25px;
+  box-shadow: 5px 3px 5px 1px rgba(20, 20, 20, 0.2);
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.event:nth-child(2n) {
+  align-self: flex-end;
+}
+
+.image {
+  width: 35px;
+  height: 35px;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+}

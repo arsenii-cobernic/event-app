@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin-bottom: 30px;
+}
+
+.sort_text {
+  margin-right: 15px;
+  color: grey;
+}
+
+.button {
+  margin-right: 10px;
+  padding: 2px 15px;
+  background-color: #decafb;
+  color: #480c93;
+  border-radius: 25px;
+}
+
+.active {
+  color: #fff;
+  background-color: #480c93;
+}
